@@ -1,5 +1,5 @@
 # Terminal-Blackjack
-## Play Blackjack in the command line!
+Play Blackjack in the command line!
 
 
 ### Requirements:
