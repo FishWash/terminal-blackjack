@@ -13,7 +13,7 @@ Play Blackjack in the command line!
     2. Open blackjack.py
 
 - With Terminal:
-    1. Unzip terminal-blackjack.zip.
+    1. Unzip terminal-blackjack.zip
     2. cd into terminal-blackjack 
     3. Run this command: python ./blackjack.py
 
