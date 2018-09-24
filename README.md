@@ -1,8 +1,10 @@
 # Terminal-Blackjack
 ## Play Blackjack in the command line!
 
+
 ### Requirements:
 - Python installed
+
 
 ### How to Run:
 
