@@ -9,12 +9,12 @@ Play Blackjack in the command line!
 ### How to Run:
 
 - With Python:
-    1. Open jfox-terminal-blackjack.zip
+    1. Open terminal-blackjack.zip
     2. Open blackjack.py
 
 - With Terminal:
-    1. Unzip jfox-terminal-blackjack.zip.
-    2. cd to jfox-terminal-blackjack 
+    1. Unzip terminal-blackjack.zip.
+    2. cd into terminal-blackjack 
     3. Run this command: python ./blackjack.py
 
 - Respond to most prompts in game with yes(or y) or no(or n)
