@@ -9,8 +9,8 @@ Play Blackjack in the command line!
 ### How to Run:
 
 - With Python:
-    1. Double-click jfox-terminal-blackjack.zip
-    2. Double-click blackjack.py
+    1. Open jfox-terminal-blackjack.zip
+    2. Open blackjack.py
 
 - With Terminal:
     1. Unzip jfox-terminal-blackjack.zip.
